@@ -68,7 +68,8 @@
         "reshadman/laravel-mongo-auth",
         "QuincePHP/Pelastic",
         "smoqadam/php-telegram-bot",
-        "smoqadam/php-telegram-cli"
+        "smoqadam/php-telegram-cli",
+        "Sajjad-dehghani/mongodb-rest-api"
       ]
     },
     {
